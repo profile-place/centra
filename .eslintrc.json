@@ -1,11 +1,11 @@
 {
-  "extends": "@aero",
-  "rules": {
+    "extends": "@aero",
+    "rules": {
 		"valid-jsdoc": "off"
-  },
-  "globals": {
+    },
+    "globals": {
 		"XMLHttpRequest": "readonly",
 		"window": "readonly",
 		"fetch": "readonly"
-  }
+    }
 }
