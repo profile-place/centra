@@ -1,0 +1,16 @@
+{
+  "name": "@socials/centra",
+  "description": "Fork of @aero/centra to support window.fetch and XMLHttpRequest",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "The profile.place Team <team@profile.place> (https://profile.place)",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/profile-place/centra",
+  "scripts": {
+    "lint": "eslint lib --ext .js --ignore-path .gitignore --fix"
+  },
+  "devDependencies": {
+    "@aero/eslint-config": "1.0.5",
+    "eslint": "7.7.0"
+  }
+}
